@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "444586507110",
+    "project_id": "diary-cf5f0",
+    "storage_bucket": "diary-cf5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444586507110:android:53a9e3a3b81716a7e7a6a7",
+        "android_client_info": {
+          "package_name": "com.agriculture.agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444586507110-h9hljkp7of3pvcssgbc06gig9klhd3mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQx1E7xCOn63GxqcOmB8t5Jg0lqPYhVDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444586507110-h9hljkp7of3pvcssgbc06gig9klhd3mi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444586507110-18srh53jtlfj3ha1l9eo2picgivipvdi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agriculture.agri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
